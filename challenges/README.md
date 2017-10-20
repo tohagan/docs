@@ -30,3 +30,4 @@
 | Sefarers Raspberry Pi | kaiifalcutela | Manila | #seafarersforchrist | Help bring the life-changing message of Jesus Christ to every ship and every seafarer | | http://indigitous.ph/ |
 | Short Film Challenge | kaiifalcutela | Manila | #shortfilmconvo | Engaging people in a meaningful spiritual conversation using a short film | | http://indigitous.ph/ |
 | Translation Workspace | kaiifalcutela | Manila | #workspace | Provide a tool that assists New Tribes Missionaries (NTM) to translate the Chronological Bible Study material into the tribal community local language | | http://indigitous.ph/ |
+| Walk Beside | Tony O'Hagan | Melbourne | #walk-beside | Take online personal discipling to the next level. | https://indigitous.org/projects/walk-beside/ and http://www.walkbeside.org|
